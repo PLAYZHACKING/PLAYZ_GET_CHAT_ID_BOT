@@ -1,0 +1,9 @@
+*.session*
+venv
+.idea
+*pycache*
+*.env
+*.txt
+*.json
+*.sqlite
+*.log
